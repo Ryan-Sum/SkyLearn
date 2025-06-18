@@ -1,58 +1,124 @@
-# SkyChatter
+# SkyLearn
 
 ---
 
 > Mobile Application developed by Ryan Sumiantoro and Alyssa Hayman
 
-# Introducing SkyBoard: Elevate Your Achievements, Craft Your Future
+# 🌌 Welcome to SkyLearn
 
-## 🚀 Achievement Hub:
+_Your journey to mastering school subjects starts here._
 
-Easily input and organize your academic milestones – from challenging courses like AP, IB, AICE, to stellar test scores in ACT and SAT. SkyBoard is your personalized achievement vault.
+SkyLearn is a cross-platform learning app that makes studying feel like a game — because learning should be fun, not frustrating. Whether you're brushing up on algebra, diving into American history, or strengthening your reading comprehension, SkyLearn helps you level up your skills with engaging features and powerful learning tools.
 
-## 🔍 Detailed Profiles:
+---
 
-Create a comprehensive profile that goes beyond grades. Highlight your strengths, academic pursuits, and community service contributions. SkyBoard transforms your accomplishments into a captivating digital representation.
+## 🎮 Game Your Brain: Learning Made Fun
 
-## 🌟 Tailored Resumes:
+We believe learning should feel like play. That’s why SkyLearn brings education to life through exciting game mechanics:
 
-Craft a dynamic and personalized resume with just a few clicks. SkyBoard intelligently integrates your achievements, creating a stunning document that showcases your unique academic journey.
+- 🔥 **Streaks** – Keep your momentum going with daily learning streaks
+- ❤️ **Hearts** – Make mistakes? Lose a heart. Run out? Try again tomorrow!
+- ✨ **XP Points** – Earn points for every correct answer and lesson completed
+- 🧩 **Mini Puzzles** – Challenge your brain with subject-specific challenges
+- 🔔 **Sound Effects** – Delightful audio keeps the energy high and lessons engaging
 
-## 📚 Academic Portfolio:
+From the first tap, SkyLearn makes education exciting — no boredom, no burnout.
 
-Build an impressive academic portfolio that reflects your dedication and accomplishments. SkyBoard helps you stand out to colleges and future employers by presenting a holistic view of your high school journey.
+---
 
-## 🤝 Community Impact Tracker:
+## 📚 Subjects Covered
 
-Capture your community service experiences seamlessly. SkyBoard recognizes the importance of giving back, allowing you to showcase your commitment to making a positive impact on the world.
+SkyLearn isn't just another flashcard app. It's your personal learning hub across all core subjects:
 
-## 🎓 Future-Ready Profiles:
+### 📘 English Language Arts
 
-Prepare for the next chapter in your academic journey with confidence. SkyBoard equips you with a future-ready profile that tells your story and sets you apart in college applications and beyond.
+- Vocabulary-building exercises
+- Grammar practice
+- Reading comprehension quizzes
+- Writing structure and editing skills
 
-## 🔒 Privacy First:
+### ➗ Math
 
-Rest easy knowing your data is secure. SkyBoard prioritizes privacy, ensuring your achievements are stored and shared on your terms.
+- Arithmetic and pre-algebra basics
+- Geometry and equations
+- Fractions, decimals, and percentages
+- Word problems that simulate real-life applications
 
-## 🌐 Anywhere, Anytime Access:
+### 🔬 Science
 
-Access your SkyBoard profile from any device, anytime, anywhere. Your achievements are at your fingertips, empowering you to stay organized and prepared for every opportunity.
+- Earth, Life, and Physical science topics
+- Basic biology, chemistry, and physics
+- Scientific method and critical thinking
+- Interactive diagrams and fun facts
 
-## 🚀 Elevate your academic journey, stand out with SkyBoard!
+### 🏛️ History
 
-## Running the App
+- U.S. and World History timelines
+- Key historical events and figures
+- Geography, civics, and government
+- Primary source analysis and matching exercises
 
-To run this app, you must first [install Flutter](https://docs.flutter.dev/get-started/install) and its associated packages. You must also download [Visual Studio Code](https://code.visualstudio.com/download) along with [Xcode](https://developer.apple.com/xcode/) (if on macOS) or [Android Studio](https://developer.android.com/studio). Once all programs are installed, ensure you have followed all required instructions in the [Flutter install instructions](https://docs.flutter.dev/get-started/install). Once that is completed, run the command 'flutter doctor' in the command prompt to ensure everything is ready.
+---
 
-Once that is completed, download this repository from GitHub by clicking the blue GitHub logo in the top right, then the blue "<> Code" button (download the zip file). Extract the zip file to your desired location.
+## 📱 Cross-Platform & Synchronized
 
-To prepare Visual Studio Code, install the [Dart and Flutter](https://dartcode.org) extensions for Visual Studio Code.
+No matter where you are or what device you use, SkyLearn works for you.
 
-To run the project:
+- 📲 **iOS & Android** – Learn on the go with a fully native mobile experience
+- 🖥️ **Web** – Log in from any browser to pick up right where you left off
+- 🔄 **Progress Sync** – Your learning journey is saved across all platforms
 
-- Open Visual Studio Code
-- Open the unzipped flutter project
-- Select a simulator (located on the bottom bar of VSCode) if no simulators appear check these links: [Android Simulator](https://developer.android.com/studio/run/managing-avds) or [Xcode Simulator](https://developer.apple.com/documentation/xcode/installing-additional-simulator-runtimes)
-- Press F5 when in the lib/main.dart file
-- Wait for application to build, then it should install on your selected device
-- Application is now installed and running on your computer
+Whether you're commuting, studying at home, or killing time between classes, SkyLearn is always ready when you are.
+
+---
+
+## 🧠 Built for Students, Designed for Results
+
+SkyLearn is perfect for:
+
+- Middle & high school students looking to reinforce classroom lessons
+- Homeschool learners who want structured, interactive content
+- Students preparing for standardized tests or academic competitions
+- Anyone who prefers learning through games rather than textbooks
+
+No more flipping through worn-out workbooks. With SkyLearn, everything is interactive, trackable, and made for real growth.
+
+---
+
+## 🧭 Track Your Progress
+
+- 📊 **Progress bars** and **lesson scores** show how far you’ve come
+- 🏆 **Milestones** and **badges** celebrate your achievements
+- 🎯 Stay focused with **lesson goals** and **subject mastery paths**
+
+Set learning goals, hit them, and see your hard work pay off — visually.
+
+---
+
+## 💡 Why Students Love SkyLearn
+
+> “It feels like Duolingo, but for school!”  
+> “I actually _want_ to study now.”  
+> “I’m learning faster because it’s fun.”
+
+---
+
+## 🚀 Ready to Take Off?
+
+SkyLearn makes it easy to start learning right away.  
+Download the app or open it in your browser, create an account, and let your learning adventure begin.
+
+- ✅ No setup required
+- ✅ Kid-friendly and school-safe
+- ✅ Always expanding with new lessons
+
+---
+
+## 📥 Get SkyLearn Today
+
+- [Download on the App Store](#)
+- [Get it on Google Play](#)
+- [Use on the Web](#)
+
+Start building your knowledge the fun way with SkyLearn — where school meets play.  
+🌟 _Learn smart. Learn fun. Learn with SkyLearn._
